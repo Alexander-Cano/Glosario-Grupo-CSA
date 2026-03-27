@@ -12,7 +12,22 @@
 *(Esta seccion sera completada por el Estudiante 2)*
 ---
 ## Terminos de Software
-*(Esta seccion sera completada por el Estudiante 3)*
+
+## 1. Sistema Operativo (SO)
+
+Es el software principal de un computador. Se encarga de administrar el hardware y permitir que los programas funcionen.
+Ejemplo: Windows, Linux, macOS.
+
+## 2. Aplicación
+
+Es un programa creado para realizar tareas específicas que el usuario necesita.
+Ejemplo: Word para escribir, Chrome para navegar.
+
+## 3. Controlador (Driver)
+
+Es un software que permite que el sistema operativo se comunique con dispositivos como impresoras, mouse o teclado.
+
+
 ---
 ## Terminos Generales de Programacion
 *(Esta seccion sera completada por el Lider)*
